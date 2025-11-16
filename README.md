@@ -61,9 +61,9 @@ Skills:
 <!--Powershell-->
    <a><img src="https://skillicons.dev/icons?i=powershell" height="48"></a>&nbsp;&nbsp;
 <!--Machine Learning-->
-   <a><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="45"/></a>&nbsp;&nbsp;
+   <a><img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/></a>&nbsp;&nbsp;
 <!--DEep Learning-->
-   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/></a>&nbsp;&nbsp;
+   <a><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></a>&nbsp;&nbsp;
 <!-- Stats, Maths -->
    <a><img src="https://cdn-icons-png.flaticon.com/512/2620/2620900.png" width="45"/></a>&nbsp;&nbsp;
 <!-- Jupyter-->
