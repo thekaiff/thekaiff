@@ -66,7 +66,6 @@ Skills:
    <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/></a>&nbsp;&nbsp;
 <!-- Stats, Maths -->
    <a><img src="https://cdn-icons-png.flaticon.com/512/2620/2620900.png" width="45"/></a>&nbsp;&nbsp;
-   <a><img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" width="45"/></a>&nbsp;&nbsp;
 <!-- Jupyter-->
    <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/></a>&nbsp;&nbsp;
 <!-- LangChain -->
