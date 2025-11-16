@@ -1,34 +1,39 @@
-#  Hey there, I'm <a  href="https://www.linkedin.com/in/shahnawaz-khan-197052162/">Shahnawaz Khan</a>, your mobile app magician! <img src="hii.gif" width="50px" height="50px">
+# Hey there, I'm  — <a  href="https://www.linkedin.com/in/kaifsayed57/">Kaif Anis Sayed</a>,  your Data Analyst & Aspiring Data Scientist!
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
-I'm driven by the thrill of transforming ideas into captivating mobile experiences. Let's dive into my world of code, creativity, and pixel-perfect adventures!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahnawazk7944&label=Profile%20views&color=0e75b6&style=flat" alt="Shahnawazk7944" /><br/>
-   <sub><samp>Profile views since December 29, 2023</samp></sub> </p>
-<br/><br/>
+I turn raw data into clear stories, business insights, and interactive dashboards.
+From Power BI dashboards to Python analytics, MySQL, Machine Learning, and even AI-powered apps, I love solving problems that create real business value.
 
-##  My App Showcase (Tap to Explore!)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaifAnisSayed&label=Profile%20views&color=0e75b6&style=flat" /> <br><sub><samp>Profile views since November 2024</samp></sub> </p> <br/>
 
-**Here are a few gems from my collection:**
-
-* **[My Kotlin+JetPack Practice Projects](https://github.com/Shahnawazk7944/Android_JetPack_Compose_Practice_Projects)** - [Exploring Kotlin and Jetpack for modern Android apps.]
-* **[LoanConnect - Loan Management App](https://github.com/Shahnawazk7944/LoanConnect_A_Loan_Management_App)** - [Your financial partner for fast, secure, and transparent loan applications.]
-* **[AI Chat Application ZERU With MVVM Retrofit ROOM GoogleGeminiAI](https://github.com/Shahnawazk7944/AI_Chat_Application_ZERU_With_MVVM_Retrofit_ROOM_GoogleGeminiAI)** - [Explore the World of Knowledge with Fast, Secure AI Chat at Your Fingertips and Effortless Learning & Engaging Chat with Your Powerful AI Assistant in One Swipe.]
-* **[Simple Age Calculator With MVVM and ROOM](https://github.com/Shahnawazk7944/Simple_Age_Calculator)** - [A modern age calculator app using MVVM and ROOM in Jetpack Compose for a clean and efficient user interface.]
-* **[The Amazone Clone](https://github.com/Shahnawazk7944/Amazon_Clone_Flutter_Node_MongoDB)** - [Building a functional Amazon clone for learning purposes.]
-* **[The URL Shortnere](https://github.com/Shahnawazk7944/URL_Shortnere_Using_React_and_Firebase)** - [Cutting-edge, Efficient and user-friendly URL shortener app with advanced React.js functionality.]
-
-
-<br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## ️ My Tech Toolkit (Hover to Reveal!)
+
+
+##  📊 Featured Projects (Tap to Explore!)
+
+**🔥 Data Analytics & BI Projects**
+
+* **[Sales Insights Dashboard (Power BI)](https://github.com/thekaiff/Power-BI-Sales-Revenue-Analytics)** - [A complete sales performance dashboard with KPIs, profit trends, customer segmentation & interactive drill-downs.]
+* **[Weaather Intelligence Dashboard (Power BI + API + Power Query)](https://github.com/thekaiff/Power-BI-Weather-Forecast-Analysis)** - [Built using real-time API data, transformed through Power Query, and displayed in a clean dynamic dashboard.]
+
+
+**🔥 AI & Python Projects**  
+* **[AI StoryBot (LangChain + RAG + TTS + Image Generation)](https://github.com/thekaiff/Es-Magico-s-WhimsyBot)** - [Full AI chatbot: multilingual, contextual RAG search, story generation, voice support & custom image generation.]
+* **[Python EDA & ML Projects](https://github.com/thekaiff/EDA)** - [Exploratory Data Analysis and machine learning models using Pandas, NumPy, Matplotlib, Seaborn & Scikit workflows.]
+
+<br/><br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## ️ 🧰 My Data Toolkit (Hover to Reveal!)
 
 ```yaml
 Skills:
-   Programming Languages: "𝙆𝙤𝙩𝙡𝙞𝙣", "𝘿𝙖𝙧𝙩", "𝙅𝙖𝙫𝙖", "𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩"...
-   Front-End Technologies: "𝙅𝙚𝙩 𝙋𝙖𝙘𝙠 𝘾𝙤𝙢𝙥𝙤𝙨𝙚", "𝙁𝙡𝙪𝙩𝙩𝙚𝙧", "𝙃𝙏𝙈𝙇5", "𝘾𝙎𝙎", "𝙍𝙚𝙖𝙘𝙩"...
-   Back-End Frameworks: "𝙎𝙥𝙧𝙞𝙣𝙜 𝘽𝙤𝙤𝙩", "𝙉𝙤𝙙𝙚.𝙅𝙎"...
-   Database Management: "𝙈𝙮𝙎𝙌𝙇", "𝙈𝙤𝙣𝙜𝙤𝘿𝘽", "𝙁𝙞𝙧𝙚𝙗𝙖𝙨𝙚"...
-   Version Control: "𝙂𝙞𝙩", "𝙂𝙞𝙩𝙃𝙪𝙗"...
+   Programming: "Python", "SQL (MySQL)", "DAX", "M Query"
+   Data Analysis: "EDA", "Feature Engineering", "Visualization"
+   BI & Dashboards: "Power BI", "Power Query", "DAX", "ETL"
+   ML & AI: "Supervised ML", "RAG", "LangChain", "Embeddings"
+   Python Libraries: "Pandas", "NumPy", "Matplotlib", "Seaborn"
+   Databases: "MySQL"
+   Version Control: "Git", "GitHub"
 ```
 
 * **𝙎𝙩𝙧𝙤𝙣𝙜 𝙥𝙧𝙤𝙗𝙡𝙚𝙢-𝙨𝙤𝙡𝙫𝙞𝙣𝙜 𝙖𝙣𝙙 𝙖𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙖𝙡 𝙨𝙠𝙞𝙡𝙡𝙨**
@@ -37,65 +42,49 @@ Skills:
 
 
 <br/>
-<p align="center">
-<!-- App Development -->
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" alt="kotlin" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="JETPACK COMPOSE" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <!-- Java Development -->
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
- <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <!-- Web Development -->
- <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
 
 
-  <!-- Back-End Development -->
- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="mongoDB" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?size=48" alt="firebase" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-</p><br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
-
-## My Github Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" height="165.45" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true" width="420"/></p>
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
+<!-- Python -->
+   <a><img src="https://skillicons.dev/icons?i=python" height="48" /></a> &nbsp;&nbsp;
+<!-- Excel -->
+   <a><img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="45"/></a>&nbsp;&nbsp;
+<!-- MySQL-->
+   <a><img src="https://skillicons.dev/icons?i=mysql" height="48"></a>&nbsp;&nbsp;
+<!-- Power BI -->
+   <a><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="45"/></a>  
+<!--VSCode-->
+   <a><img src="https://skillicons.dev/icons?i=vscode" height="48"></a>&nbsp;&nbsp;
+<!-- Pandas -->
+   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/></a>  
+<!-- Numpy -->
+   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/></a> 
+<!--Powershell-->
+   <a><img src="https://skillicons.dev/icons?i=powershell" height="48"></a>&nbsp;&nbsp;
+<!--Machine Learning-->
+   <a><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="45"/></a>&nbsp;&nbsp;
+<!--DEep Learning-->
+   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/></a>&nbsp;&nbsp;
+<!-- Stats, Maths -->
+   <a><img src="https://cdn-icons-png.flaticon.com/512/2620/2620900.png" width="45"/></a>&nbsp;&nbsp;
+   <a><img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" width="45"/></a>&nbsp;&nbsp;
+<!-- Jupyter-->
+   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/></a>&nbsp;&nbsp;
+<!-- LangChain -->
+   <a><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/></a>  
+<!-- Git -->
+   <a><img src="https://skillicons.dev/icons?i=git" height="48"></a>&nbsp;&nbsp;
+<!-- GitHub -->
+   <a><img src="https://skillicons.dev/icons?i=github" height="48"></a>
+   
+</p> <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br/>
+
+
+## 📈 My GitHub Stats
+<p> <img src="https://github-readme-stats.vercel.app/api?username=thekaiff&theme=github_dark_dimmed&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekaiff&theme=github_dark_dimmed&hide_border=true" height="165" /> </p> 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekaiff&theme=github_dark_dimmed&hide_border=true&layout=compact"/> </p>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false =450*195)
@@ -106,20 +95,32 @@ Skills:
 ![](https://github-profile-trophy.vercel.app/?username=Shahnawazk7944&theme=github_dark_dimmed&hideno-frame=true&no-bg=false&margin-w=10)
 -->
 
-##  Ways to Connect (Click to Engage!)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Let's make magic together!**
+## 🤝 Let’s Connect! (Click to Engage!)
 
-* **<img src="gmail.png" width="18px" height="18px"> Email:** [My email address](mailto:shahnawazkhan238200@gmail.com)
-* **<img src="linkedin.png" width="18px" height="18px"> LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/shahnawaz-khan-197052162/)
+**I did love connecting with analysts, scientists, developers & founders.**
 
-## ✨ What's Brewing in the Cauldron?
+* **<img src="https://skillicons.dev/icons?i=gmail" width="18px" height="18px"> Email:** [My email address](mailto:kaifsdkpro2@gmail.com)
+* **<img src="https://skillicons.dev/icons?i=linkedin" width="18px" height="18px"> LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/kaifsayed57/)
 
-* **Currently conjuring:** I'm currently learning Kotlin with Jetpack Compose, a modern approach to Android development, focusing on declarative UI and reactive programming.
-* **Excited to learn:** My brain buzzes with every backend trick I learn. It's like building secret forts with code, forts strong enough to hold whole worlds of apps and websites.
-* **Always seeking:** 
-My fingers itch to write code that doesn't just build apps, but builds a community. I believe the best mobile experiences blossom in the open, where ideas cross-pollinate like wildflowers in a shared garden. Every line of code I contribute to open source projects feels like planting a seed for a brighter future, where anyone can access the tools to build incredible apps. It's not just about downloads or profits; it's about leaving a legacy where mobile magic isn't locked away, but shared freely, pixel by pixel, for everyone to enjoy and grow from. That's the open road I love to travel, and the community I'm always excited to be a part of.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ☕️ Thanks for the visit! 
+## ✨ What I'm Working On
 
-Feel free to reach out if you have any questions or want to collaborate. Let's brew something extraordinary! ✨
+* **📚 Mastering feature engineering, statistical analysis & ML workflows** 
+* **🎨 Building new Power BI dashboards using real-world scenarios**
+* **🧠 Improving my RAG + LangChain skills after building AI Bot**
+* **📊 Creating more portfolio-ready data projects to break into Data Science**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ☕ Thanks for stopping by!
+
+Let’s collaborate, learn together, and turn raw data into powerful decisions.
+_✨ Feel free to explore my repositories and reach out anytime!_
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+_<div align="center">⚡ Data tells a story. I just give it structure and logic.</div>_
+
