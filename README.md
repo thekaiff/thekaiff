@@ -7,8 +7,6 @@ From Power BI dashboards to Python analytics, MySQL, Machine Learning, and even 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaifAnisSayed&label=Profile%20views&color=0e75b6&style=flat" /> <br><sub><samp>Profile views since November 2024</samp></sub> </p> <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ##  📊 Featured Projects (Tap to Explore!)
 
@@ -77,7 +75,6 @@ Skills:
    <a><img src="https://skillicons.dev/icons?i=git" height="48"></a>&nbsp;&nbsp;
 <!-- GitHub -->
    <a><img src="https://skillicons.dev/icons?i=github" height="48"></a>
-   
 </p> <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br/>
 
 
@@ -95,7 +92,6 @@ Skills:
 ![](https://github-profile-trophy.vercel.app/?username=Shahnawazk7944&theme=github_dark_dimmed&hideno-frame=true&no-bg=false&margin-w=10)
 -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Let’s Connect! (Click to Engage!)
 
@@ -104,7 +100,6 @@ Skills:
 * **<img src="https://skillicons.dev/icons?i=gmail" width="18px" height="18px"> Email:** [My email address](mailto:kaifsdkpro2@gmail.com)
 * **<img src="https://skillicons.dev/icons?i=linkedin" width="18px" height="18px"> LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/kaifsayed57/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ✨ What I'm Working On
 
@@ -112,15 +107,13 @@ Skills:
 * **🎨 Building new Power BI dashboards using real-world scenarios**
 * **🧠 Improving my RAG + LangChain skills after building AI Bot**
 * **📊 Creating more portfolio-ready data projects to break into Data Science**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 
 ## ☕ Thanks for stopping by!
 
 Let’s collaborate, learn together, and turn raw data into powerful decisions.
-_✨ Feel free to explore my repositories and reach out anytime!_
 
+✨ Feel free to explore my repositories and reach out anytime!
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 _<div align="center">⚡ Data tells a story. I just give it structure and logic.</div>_
 
