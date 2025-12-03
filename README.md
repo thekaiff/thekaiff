@@ -78,7 +78,7 @@ Skills:
 
 
 ## 📈 My GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=thekaiff&theme=github_dark_dimmed&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekaiff&theme=github_dark_dimmed&hide_border=true" height="165" /> /p> 
+<p> <img src="https://github-readme-stats.vercel.app/api?username=thekaiff&theme=github_dark_dimmed&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekaiff&theme=github_dark_dimmed&hide_border=true" height="165" /></p> 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekaiff&theme=github_dark_dimmed&hide_border=true&layout=compact"/> </p>
 
