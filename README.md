@@ -11,10 +11,11 @@ From Power BI dashboards to Python analytics, MySQL, Machine Learning, and even 
 
 **🔥 Data Analytics & BI Projects**
 
-* **[Sales Insights Dashboard (Power BI)](https://github.com/thekaiff/Power-BI-Sales-Revenue-Analytics)** - [A complete sales performance dashboard with KPIs, profit trends, customer segmentation & interactive drill-downs.]
-* **[Weaather Intelligence Dashboard (Power BI + API + Power Query)](https://github.com/thekaiff/Power-BI-Weather-Forecast-Analysis)** - [Built using real-time API data, transformed through Power Query, and displayed in a clean dynamic dashboard.]
-* **[Hospital Insights Dashboard (Power BI)](https://github.com/thekaiff/Hospital-Analysis-Power-BI-Dashboard)** - [A full-stack Hospital Performance Analytics Dashboard built in Power BI to uncover patient trends, optimize doctor performance, and drive data-backed operational decisions.]
+* **[Business Funnel Analysis for Revenue Optimization](https://github.com/thekaiff/Business-Funnel-Analysis-for-Revenue-Optimization)** - [End-to-end funnel analysis project analyzing lead conversion, sales velocity, and delivery performance using Python and Power BI.]
 * **[Supplier Profitability & Dependency Risk Analysis (Vendor Performance)](https://github.com/thekaiff/Supplier-Profitability-Dependency-Risk-Analysis-Vendor-Performance-)** - [End-to-end supplier performance and profitability analysis using SQL + Python + Power BI, revealing actionable insights for procurement and inventory optimization.]
+* **[Hospital Insights Dashboard (Power BI)](https://github.com/thekaiff/Hospital-Analysis-Power-BI-Dashboard)** - [A full-stack Hospital Performance Analytics Dashboard built in Power BI to uncover patient trends, optimize doctor performance, and drive data-backed operational decisions.]
+* **[Weaather Intelligence Dashboard (Power BI + API + Power Query)](https://github.com/thekaiff/Power-BI-Weather-Forecast-Analysis)** - [Built using real-time API data, transformed through Power Query, and displayed in a clean dynamic dashboard.]
+* **[Sales Insights Dashboard (Power BI)](https://github.com/thekaiff/Power-BI-Sales-Revenue-Analytics)** - [A complete sales performance dashboard with KPIs, profit trends, customer segmentation & interactive drill-downs.]
 
 
 **🔥 AI & Python Projects**  
