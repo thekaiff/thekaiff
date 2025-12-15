@@ -1,4 +1,4 @@
-# Hey there, I'm  — <a  href="https://www.linkedin.com/in/kaifsayed57/">Kaif Anis Sayed</a>,  your Data Analyst & Aspiring Data Scientist! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+# Hey there, I'm  — <a  href="https://www.linkedin.com/in/kaifsayed57/">Kaif Anis Sayed</a>,  your Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
 
 I turn raw data into clear stories, business insights, and interactive dashboards.
