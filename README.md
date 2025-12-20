@@ -11,6 +11,7 @@ From Power BI dashboards to Python analytics, MySQL, Machine Learning, and even 
 
 **🔥 Data Analytics & BI Projects**
 
+* **[Customer Churn Intelligence & Risk Prediction](https://github.com/thekaiff/Customer-Churn-Analysis-And-Prediction/blob/main/README.md)** - [End-to-end telecom churn analysis combining SQL, Power BI, and Machine Learning to identify churn drivers and proactively predict high-risk customers.]
 * **[Business Funnel Analysis for Revenue Optimization](https://github.com/thekaiff/Business-Funnel-Analysis-for-Revenue-Optimization)** - [End-to-end funnel analysis project analyzing lead conversion, sales velocity, and delivery performance using **Python** and **Power BI**.]
 * **[Supplier Profitability & Dependency Risk Analysis](https://github.com/thekaiff/Supplier-Profitability-Dependency-Risk-Analysis-Vendor-Performance-)** - [End-to-end supplier performance and profitability analysis using **SQL + Python + Power BI**, revealing actionable insights for procurement and inventory optimization.]
 * **[Hospital Insights Dashboard (Power BI)](https://github.com/thekaiff/Hospital-Analysis-Power-BI-Dashboard)** - [A full-stack Hospital Performance Analytics Dashboard built in Power BI to uncover patient trends, optimize doctor performance, and drive data-backed operational decisions.]
