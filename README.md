@@ -190,7 +190,7 @@ Skills:
 <td align="center" width="1440">
 
 <p>
-📧 <strong>Email:</strong> <a href="mailto:kaifsdkpro2@gmail.com">kaifsdkpro2@gmail.com</a>
+📧 <strong>Email:</strong> <a href="mailto:kaif.sdk.uae@gmail.com">kaif.sdk.uae@gmail.com</a>
 </p>
 
 <p>
