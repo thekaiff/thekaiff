@@ -141,15 +141,16 @@ I focus on solving real business problems with data.
 <tr>
 <td width="1440">
 
-<pre>
-Programming: Python, SQL (MySQL), DAX, M Query
-Data Analysis: EDA, Feature Engineering, Visualization
-BI & Dashboards: Power BI, Power Query, DAX, ETL
-ML & AI: Supervised ML, RAG, LangChain, Embeddings
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Databases: MySQL
-Version Control: Git, GitHub
-</pre>
+```yaml
+Skills:
+  Programming: Python, SQL (MySQL), DAX, M Query
+  Data Analysis: EDA, Feature Engineering, Visualization
+  BI & Dashboards: Power BI, Power Query, DAX, ETL
+  ML & AI: Supervised ML, RAG, LangChain, Embeddings
+  Libraries: Pandas, NumPy, Matplotlib, Seaborn
+  Databases: MySQL
+  Version Control: Git, GitHub
+```
 
 <ul>
   <li><strong>Strong problem-solving & analytical thinking</strong></li>
