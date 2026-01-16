@@ -1,122 +1,235 @@
-# Hey there, I'm  — <a  href="https://www.linkedin.com/in/kaifsayed57/">Kaif Anis Sayed</a>,  your Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55"/>
+</div>
 
+<h1 align="center">
+Hey there, I'm 
+<a href="https://www.linkedin.com/in/kaifsayed57/" target="_blank">
+Kaif Anis Sayed
+</a>
+</h1>
 
-I turn raw data into clear stories, business insights, and interactive dashboards.
-From Power BI dashboards to Python analytics, MySQL, Machine Learning, and even AI-powered apps, I love solving problems that create real business value.
+<h3 align="center">Data Analyst | Analytics & Business Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaifAnisSayed&label=Profile%20views&color=0e75b6&style=flat" /> <br><sub><samp>Profile views since November 2024</samp></sub> </p> <br/>
-
-
-##  📊 Featured Projects (Tap to Explore!)
-
-**🔥 Data Analytics & BI Projects**
-
-* **[Customer Funnel & Sentiment Analysis](https://github.com/thekaiff/customer-funnel-and-sentiment-analysis)** - [End-to-end marketing analytics project analyzing conversion funnels, customer engagement, and review sentiment using SQL, Python (NLP), and Power BI to drive data-backed growth strategies.]
-* **[Customer Churn Intelligence & Risk Prediction](https://github.com/thekaiff/Customer-Churn-Analysis-And-Prediction)** - [End-to-end telecom churn analysis combining SQL, Power BI, and Machine Learning to identify churn drivers and proactively predict high-risk customers.]
-* **[Business Funnel Analysis for Revenue Optimization](https://github.com/thekaiff/Business-Funnel-Analysis-for-Revenue-Optimization)** - [End-to-end funnel analysis project analyzing lead conversion, sales velocity, and delivery performance using **Python** and **Power BI**.]
-* **[Supplier Profitability & Dependency Risk Analysis](https://github.com/thekaiff/Supplier-Profitability-Dependency-Risk-Analysis-Vendor-Performance-)** - [End-to-end supplier performance and profitability analysis using **SQL + Python + Power BI**, revealing actionable insights for procurement and inventory optimization.]
-* **[Hospital Insights Dashboard (Power BI)](https://github.com/thekaiff/Hospital-Analysis-Power-BI-Dashboard)** - [A full-stack Hospital Performance Analytics Dashboard built in Power BI to uncover patient trends, optimize doctor performance, and drive data-backed operational decisions.]
-* **[Weaather Intelligence Dashboard (Power BI + API + Power Query)](https://github.com/thekaiff/Power-BI-Weather-Forecast-Analysis)** - [Built using real-time API data, transformed through Power Query, and displayed in a clean dynamic dashboard.]
-* **[Sales Insights Dashboard (Power BI)](https://github.com/thekaiff/Power-BI-Sales-Revenue-Analytics)** - [A complete sales performance dashboard with KPIs, profit trends, customer segmentation & interactive drill-downs.]
-
-
-**🔥 AI & Python Projects**  
-* **[AI StoryBot (LangChain + RAG + TTS + Image Generation)](https://github.com/thekaiff/Es-Magico-s-WhimsyBot)** - [Full AI chatbot: multilingual, contextual RAG search, story generation, voice support & custom image generation.]
-* **[Python EDA & ML Projects](https://github.com/thekaiff/EDA)** - [Exploratory Data Analysis and machine learning models using Pandas, NumPy, Matplotlib, Seaborn & Scikit workflows.]
-
-<br/><br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## ️ 🧰 My Data Toolkit (Hover to Reveal!)
-
-```yaml
-Skills:
-   Programming: "Python", "SQL (MySQL)", "DAX", "M Query"
-   Data Analysis: "EDA", "Feature Engineering", "Visualization"
-   BI & Dashboards: "Power BI", "Power Query", "DAX", "ETL"
-   ML & AI: "Supervised ML", "RAG", "LangChain", "Embeddings"
-   Python Libraries: "Pandas", "NumPy", "Matplotlib", "Seaborn"
-   Databases: "MySQL"
-   Version Control: "Git", "GitHub"
-```
-
-* **𝙎𝙩𝙧𝙤𝙣𝙜 𝙥𝙧𝙤𝙗𝙡𝙚𝙢-𝙨𝙤𝙡𝙫𝙞𝙣𝙜 𝙖𝙣𝙙 𝙖𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙖𝙡 𝙨𝙠𝙞𝙡𝙡𝙨**
-* **𝙀𝙭𝙘𝙚𝙡𝙡𝙚𝙣𝙩 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙖𝙣𝙙 𝙩𝙚𝙖𝙢𝙬𝙤𝙧𝙠 𝙖𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨**
-* **𝙌𝙪𝙞𝙘𝙠 𝙡𝙚𝙖𝙧𝙣𝙚𝙧, 𝙖𝙙𝙖𝙥𝙩𝙖𝙗𝙡𝙚 𝙩𝙤 𝙣𝙚𝙬 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙖𝙣𝙙 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨**
-
-
-<br/>
-
-
-<br/>
 <p align="center">
-<!-- Python -->
-   <a><img src="https://skillicons.dev/icons?i=python" height="48" /></a> &nbsp;&nbsp;
-<!-- Excel -->
-   <a><img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="45"/></a>&nbsp;&nbsp;
-<!-- MySQL-->
-   <a><img src="https://skillicons.dev/icons?i=mysql" height="48"></a>&nbsp;&nbsp;
-<!-- Power BI -->
-   <a><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="45"/></a>  
-<!--VSCode-->
-   <a><img src="https://skillicons.dev/icons?i=vscode" height="48"></a>&nbsp;&nbsp;
-<!-- Pandas -->
-   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/></a>  
-<!-- Numpy -->
-   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/></a> 
-<!--Powershell-->
-   <a><img src="https://skillicons.dev/icons?i=powershell" height="48"></a>&nbsp;&nbsp;
-<!--Machine Learning-->
-   <a><img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/></a>&nbsp;&nbsp;
-<!--DEep Learning-->
-   <a><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></a>&nbsp;&nbsp;
-<!-- Stats, Maths -->
-   <a><img src="https://cdn-icons-png.flaticon.com/512/2620/2620900.png" width="45"/></a>&nbsp;&nbsp;
-<!-- Jupyter-->
-   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/></a>&nbsp;&nbsp;
-<!-- LangChain -->
-   <a><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/></a>  
-<!-- Git -->
-   <a><img src="https://skillicons.dev/icons?i=git" height="48"></a>&nbsp;&nbsp;
-<!-- GitHub -->
-   <a><img src="https://skillicons.dev/icons?i=github" height="48"></a>
-</p> <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br/>
+I turn raw data into clear stories, business insights, and interactive dashboards.<br/>
+From <strong>Power BI</strong> and <strong>SQL</strong> to <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>AI-powered analytics</strong>,
+I focus on solving real business problems with data.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaifAnisSayed&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <br/>
+  <sub>Profile views since November 2024</sub>
+</p>
 
-## 📈 My GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=thekaiff&theme=github_dark_dimmed&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekaiff&theme=github_dark_dimmed&hide_border=true" height="165" /></p> 
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekaiff&theme=github_dark_dimmed&hide_border=true&layout=compact"/> </p>
+<h2 align="center">📊 Featured Projects</h2>
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false =450*195)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true =495*195)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+<table align="center">
+<tr>
+<td width="1440">
 
+<h3>🔥 Data Analytics & BI Projects</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=Shahnawazk7944&theme=github_dark_dimmed&hideno-frame=true&no-bg=false&margin-w=10)
--->
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/customer-funnel-and-sentiment-analysis" target="_blank">
+      Customer Funnel & Sentiment Analysis
+      </a>
+    </strong><br/>
+    End-to-end marketing analytics project analyzing conversion funnels, customer engagement,
+    and review sentiment using <strong>SQL, Python (NLP), and Power BI</strong>.
+  </li>
 
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/Customer-Churn-Analysis-And-Prediction" target="_blank">
+      Customer Churn Intelligence & Risk Prediction
+      </a>
+    </strong><br/>
+    Telecom churn analysis combining <strong>SQL, Power BI, and Machine Learning</strong>
+    to identify churn drivers and predict high-risk customers.
+  </li>
 
-## 🤝 Let’s Connect! (Click to Engage!)
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/Business-Funnel-Analysis-for-Revenue-Optimization" target="_blank">
+      Business Funnel Analysis for Revenue Optimization
+      </a>
+    </strong><br/>
+    Lead conversion, sales velocity, and delivery performance analysis using
+    <strong>Python</strong> and <strong>Power BI</strong>.
+  </li>
 
-**I did love connecting with analysts, scientists, developers & founders.**
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/Supplier-Profitability-Dependency-Risk-Analysis-Vendor-Performance-" target="_blank">
+      Supplier Profitability & Dependency Risk Analysis
+      </a>
+    </strong><br/>
+    Supplier performance and profitability insights using
+    <strong>SQL + Python + Power BI</strong>.
+  </li>
 
-* **<img src="https://skillicons.dev/icons?i=gmail" width="18px" height="18px"> Email:** [My email address](mailto:kaifsdkpro2@gmail.com)
-* **<img src="https://skillicons.dev/icons?i=linkedin" width="18px" height="18px"> LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/kaifsayed57/)
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/Hospital-Analysis-Power-BI-Dashboard" target="_blank">
+      Hospital Insights Dashboard
+      </a>
+    </strong><br/>
+    Hospital performance analytics uncovering patient trends,
+    doctor efficiency, and operational insights.
+  </li>
 
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/Power-BI-Weather-Forecast-Analysis" target="_blank">
+      Weather Intelligence Dashboard
+      </a>
+    </strong><br/>
+    Real-time weather analytics using API integration,
+    Power Query transformation, and Power BI visualization.
+  </li>
 
-## ✨ What I'm Working On
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/Power-BI-Sales-Revenue-Analytics" target="_blank">
+      Sales Insights Dashboard
+      </a>
+    </strong><br/>
+    Sales KPIs, profit trends, customer segmentation,
+    and interactive drill-down analytics.
+  </li>
+</ul>
 
-* **📚 Mastering feature engineering, statistical analysis & ML workflows** 
-* **🎨 Building new Power BI dashboards using real-world scenarios**
-* **🧠 Improving my RAG + LangChain skills after building AI Bot**
-* **📊 Creating more portfolio-ready data projects to break into Data Science**
- 
+<h3>🔥 AI & Python Projects</h3>
 
-## ☕ Thanks for stopping by!
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/Es-Magico-s-WhimsyBot" target="_blank">
+      AI StoryBot (LangChain + RAG)
+      </a>
+    </strong><br/>
+    Multilingual AI chatbot with contextual memory,
+    voice interaction, and image generation.
+  </li>
 
-Let’s collaborate, learn together, and turn raw data into powerful decisions.
+  <li>
+    <strong>
+      <a href="https://github.com/thekaiff/EDA" target="_blank">
+      Python EDA & ML Projects
+      </a>
+    </strong><br/>
+    Exploratory Data Analysis and machine learning workflows using
+    Pandas, NumPy, Seaborn, and Scikit-learn.
+  </li>
+</ul>
 
-✨ Feel free to explore my repositories and reach out anytime!
+</td>
+</tr>
+</table>
 
-_<div align="center">⚡ Data tells a story. I just give it structure and logic.</div>_
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="center">🧰 My Data Toolkit</h2>
+
+<table align="center">
+<tr>
+<td width="1440">
+
+<pre>
+Programming: Python, SQL (MySQL), DAX, M Query
+Data Analysis: EDA, Feature Engineering, Visualization
+BI & Dashboards: Power BI, Power Query, DAX, ETL
+ML & AI: Supervised ML, RAG, LangChain, Embeddings
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Databases: MySQL
+Version Control: Git, GitHub
+</pre>
+
+<ul>
+  <li><strong>Strong problem-solving & analytical thinking</strong></li>
+  <li><strong>Excellent communication & teamwork</strong></li>
+  <li><strong>Quick learner & adaptable to new technologies</strong></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="1440">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thekaiff&theme=github_dark_dimmed&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=thekaiff&theme=github_dark_dimmed&hide_border=true" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekaiff&theme=github_dark_dimmed&hide_border=true&layout=compact"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🤝 Let’s Connect</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="1440">
+
+<p>
+📧 <strong>Email:</strong> <a href="mailto:kaifsdkpro2@gmail.com">kaifsdkpro2@gmail.com</a>
+</p>
+
+<p>
+🔗 <strong>LinkedIn:</strong>
+<a href="https://www.linkedin.com/in/kaifsayed57/" target="_blank">
+linkedin.com/in/kaifsayed57
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">✨ What I'm Working On</h2>
+
+<table align="center">
+<tr>
+<td width="1440">
+
+<ul>
+  <li>📚 Feature engineering, statistics & ML workflows</li>
+  <li>🎨 Real-world Power BI dashboards</li>
+  <li>🧠 Advanced RAG & LangChain pipelines</li>
+  <li>📊 Portfolio-grade Data Science projects</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">
+☕ Thanks for stopping by!
+</h3>
+
+<p align="center">
+<em>⚡ Data tells a story. I just give it structure and logic.</em>
+</p>
+
+<h4 align="center">Made with ❤️ — Kaif Anis Sayed</h4>
