@@ -168,7 +168,7 @@ Skills:
 
 <table align="center">
 <tr>
-<td align="center" width="1440">
+ <td align="center" width="1440">
 
 <img src="https://github-readme-stats.vercel.app/api?username=thekaiff&theme=github_dark_dimmed&hide_border=true" height="170"/>
 <img src="https://streak-stats.demolab.com?user=thekaiff&theme=github_dark_dimmed&hide_border=true" height="170"/>
@@ -177,7 +177,7 @@ Skills:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekaiff&theme=github_dark_dimmed&hide_border=true&layout=compact"/>
 
-</td>
+ </td>
 </tr>
 </table>
 
